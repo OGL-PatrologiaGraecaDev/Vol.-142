@@ -1,0 +1,97 @@
+ΚΕΦΔΛ. AA'.
+Περὶ συλλογισμοῦ καὶ ἀντιστροφῆς·
+α’. Συλλογισμός ἐστι λόγος, ἐν ᾧ τεθέντων τινῶν
+ἕτερόν τι τῶν κειμένων ἐξ ἀνάγκης συμϐαίνει τῷ ταῦτα
+εἶναι.
+β’. Λόγος γάρ ἐστιν ὁ συλλογισμὸς, ἐξ ὀνομάτων
+καί ῥημάτων συγκείμενος, έν ᾧ δὴ λόγῳ τεθέντων,
+εἷ’τουν ὁμολογηθέντων τινῶν (ταῦτα δέ εἷ’σι προτά-
+σεις), κατὰ πᾶσαν ἀνάγκην συμϐαίνει, διὰ τὸ εἶναι
+ταύτας δή τὰς προτάσεις ἕτερόν τι τῶν τοιούτων
+προτάσεων, ἓν δηλονότι καὶ ὡρισμένον, ὅπερ ἐστὶ τὸ
+συμπέρασμα.
+γ’. Τεθέντος δὲ τοῦ ἐξ ἀνάγκης έν τῷ λόγῳ τοῦ
+συλλογισμοῦ, ἵνα μή τις ἴσως ἐπὶ μόνης ὑπολάϐοι
+τῆς ἀναγκαίας ὕλης ἕπεσθαι τὸ συμπέρασμα ταῖς
+προτάσεσι, τὸ συμϐαίνει προστέθειται . Τοῦτο δὲ
+δηλοῖ, τὰ συντρέχειν φυσικῶς ταῖς προτάσεσιν,
+ἤγουν σὺν αὐταῖς βαίνειν , ὡς ἂν εἴποι ἐτυμοο
+λογῶν.
+δ’. Πᾶς τοίνυν ἁπλοῦς συλλογισμὸς ἐκ προτάσεων
+συνίσταται δύο , καὶ συμπεράσματος ἑτέρου παρὰ
+τὰς προτάσεις ὄντος , ἑνός τε καὶ ὡρισμένου ,
+καταφατικοῦ, τουτέστιν ἢ ἀποφατικοῦ , καθόλου ἢ
+μερικοῦ.
+ε’. Ἦναγκασμένως δὲ καὶ ἀπαραιτήτως ἐπὶ πάσης
+ὕλης συμϐαίνει· ταυτὸν δ’ εἰπεῖν, συνακολουθεῖ τὸ
+συμπέρασμα ταῖς προτάσεσιν , οὐ διὰ τὴν φύσιν
+τῶν πραγμάτων, ἀλλὰ διὰ τὴν θέσιν τῶν προτά-
+σεων. Αἱ δὴ προτάσεις αὐτάρκεις εἶσὶ πρὸς τὸ aw-
+αγαγεῖν τὸ συμπέρασμα, μηδεμιᾶς ἅλλης προτάσεως
+πρὸς τοῦτο δεόμεναι.
+’ς’. Τοῦτο δ’ ὅλον, αἱ δύο προτάσεις δηλαδή μετᾶ
+καὶ τοῦ συμπεράσματος , καλεῖται συλλογισμὸς,
+ὅτιπερ ἐκ τῶν τοιούτων προτάσεων διὰ τοῦ συμπε-
+ράσματος συλλογιζόμεθα · τουτέστι συνάγομεν λυγι-
+κῶς τὸ εἰς δεῖξιν προκείμενον. Συλλογὴ γὰρ λόγων
+
+93! NICEPHORI BLEMMIDE
+932
+SYNOPSIS CAPIT IS XXXI .
+QUOD IST ΠΒ εγιωθιεκο ET CONVBRBIONI.
+³18 1. Syllogismum deﬁnit._— 2λ Deﬁnitionem explicat secundum singulas particulas. — _3.70ccupatio.
+cur in deﬁnitione ponatur τὸ σνμϐπιίνεὶ, id est ever
+— 4. Epiphora ei: quot' et quibus syllogismis ’όμω-
+νὺμως ιιδω-ραειινίει primo pro toto conserto ea; przmissis et conclusione, quomodo etiam deﬁnituset duobus exemptis declaratur. — 7. Deinde etiam pro conclusione tantum. — 8. Syllogismi simplicis et
+et auoous exemptis declaratur. — ι. uanae eumcompositi diﬂerentia indicatur. — 9. Omnem pr.minis. — 10. Quantum et praedicatum ad subject
+sitione. — 11. Quid sit intota esse. — 12. Quid sit dici de omni. —' 13. Quod est in toto esse et dici
+de omni in propositionibus afﬁrmativis, idem est non in toto esse et dici de nullo in inegativis. —
+14. Quid non in toto esse. -- 45. Quid dici dernullo. — 16. Proprie dictus syllogismus simplex, nimirum
+quot habeat propositiones seu praemissas. _— 17. Quomodo bzpdistinguantur. — 18. Utra‘major propo-
+sitio dicatur. — 19. Utra minor.f-V— 20. IRUCOfPlpOﬂ'liS syllogismis quae propositio analogice' major'et
+minor dicatur. -Α 21. Quae propositio in syllogismo deterior, quae melior cum'in quantitate tum inquali-
+litate. -— 22. Quod deteriorem partem γ sequatur conclusio, quemadmodum inductione probatur modorum
+syllogisticorum. +314 23. επ duabus negativis et _ duabus particularibus praemissis ί nullum, syllo-
+gismum ﬁeri. — 24. Ad secundam partem capitis acceditur, et conversio describitur. — 25. Dividitur ab
+objecto. g- 26. Per pracisionem conversio terminorum simplicium tangitur. — 27. Conversio syllogis-
+oojecto. — κο. rer prensionem conversio termmorum szmpuczum tangitur. — zu. conversio uagis-morum declaratur. — 28. In propositionibus qua conversio contingens vocetur et quare. —- Qua
+conversio cum contrapositione et cur ita indicatur etquam late pateat. —- 30. Quae conversio simplex et
+quomodo deﬁniatur. — 31. Docetur in specie quomodo propositiones singulae convertantur, et primo qui-
+derntiatuniversalis alﬁrmativa. — 32. Quod universalis negans propositio in rebus contingentibus non con-ve ur in sezvsam. ·
+venatur ιη seipsam. ‘
+CAPUT XXXI.
+De syllogismo et conversione.
+1. Syllogismus est oratio in qua positis aliquibus
+aliud quid ab iis qua- posita sunt ex necessitate
+evenit, propterea quod haec sunt.
+2. Syllogismus enim est oratio ex nominibus et
+verbis composita : in qua sana oratione, positis,
+hoc est, consensis aliquibus (haec autem sunt pro-
+positiones) quoad omnem necessitatem 815 eve-
+nit, propterea quod hae scilicet propositiones sunt,
+aliud quid ab ejusmodi propositionibus, unum puta
+et ﬁnitum, quod est conclusio.
+3. Cum autem in deﬁnitione positum sit, ex ne-
+cessitate, ne quis forte existimet, in sola materia
+necessaria conclusionem sequi ad propositiones,
+τὸ evenit,adjectum est.Hoc autem signiﬁcat, natu: B
+raliter propositionibus concurrere (conclusionem)
+hoc est, cum ipsis (ut etymologia Graeci verbi ex-
+primaturfvenire.
+4. Omnis igitur simplex syllogismus ex duabus
+constat propositionibus et conclusione, quae a pro-
+positionibus diversa est, una et ﬁnita, hoc est
+affirmante vel negante, uinversali aut particu-
+lari.
+5. Necessario autem et irrefragabiliter in omni
+materia evenit ; quandoquidem idem est ac si di-
+ceretur : conclusio consequitur propositiones non
+propter naturam rerum, sed propter positum pro-
+positionum ; quae scilicet propositiones sufﬁcientes
+sunt ad conclusionem colligendam, nulla alia ad
+ipsam propositione indigentes.
+6. Totum aut hoc, dum propositiones videlicet
+cum conclusione, syllogismus,boc est, ratiocinatio
+vocatur 816 quod ex ejusmodi propositionibus
+per conclusionem, ratiocinemur, hoc est, cum ra-
+tione colligamus id quod ad ostensionem est pro-
